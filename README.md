@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0414-third-maximum-number) |
 ## String
 |  |
 | ------- |
