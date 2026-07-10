@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [2413-smallest-even-multiple](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/2469-convert-the-temperature) |
 ## Monotonic Stack
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -224,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0319-bulb-switcher) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
