@@ -1,10 +1,10 @@
 class Solution {
     public void reverse(int[] nums,int s, int e)
     {
-        int temp=0;
+        
         while(s<e)
         {
-            temp = nums[s];
+            int temp = nums[s];
             nums[s] = nums[e];
             nums[e] = temp;
             s++;
