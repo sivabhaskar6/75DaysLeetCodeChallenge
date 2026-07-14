@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [1470-shuffle-the-array](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/1572-matrix-diagonal-sum) |
 ## Linked List
 |  |
 | ------- |
