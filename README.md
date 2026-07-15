@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
 ## Quickselect
 |  |
 | ------- |
