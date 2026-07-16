@@ -1,12 +1,13 @@
 class Solution {
-    public double findMaxAverage(int[] nums, int k) {
+    public double findMaxAverage(int[] nums, int k) 
+    {
         int sum = 0;
 
         // First window sum
         for (int i = 0; i < k; i++) {
             sum += nums[i];
+    
         }
-
         int maxSum = sum;
 
         // Slide the window
