@@ -6,8 +6,8 @@ class Solution {
             return false;
 
         Set<Integer> unique = new HashSet<>();
-        for(int num:nums)
-            if(!unique.add(num))
+        for(int i=0;i<n;i++)
+            if(!unique.add(nums[i]))
                 return true;
         
         return false;
