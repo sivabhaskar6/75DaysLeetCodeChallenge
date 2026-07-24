@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/1971-find-if-path-exists-in-graph) |
 ## String Matching
 |  |
 | ------- |
@@ -291,4 +294,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
+| [1971-find-if-path-exists-in-graph](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
