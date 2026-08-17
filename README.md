@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0997-find-the-town-judge](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
