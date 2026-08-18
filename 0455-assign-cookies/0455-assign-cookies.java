@@ -1,20 +1,20 @@
-import java.util.Arrays;
+
 
 class Solution {
     public int findContentChildren(int[] g, int[] s) {
         Arrays.sort(g);
         Arrays.sort(s);
-
-        int i = 0;
-        int j = 0;
-
+        
+        int i = 0; // Pointer for children (g)
+        int j = 0; // Pointer for cookies (s)
+        
         while (i < g.length && j < s.length) {
-            if (g[i] <= s[j]) {
-                i++;
+            if (s[j] >= g[i]) {
+                i++; // Cookie satisfies child, move to next child
             }
-            j++;
+            j++; // Move to next cookie regardless
         }
-
-        return i;
+        
+        return i; // Total satisfied children
     }
 }
