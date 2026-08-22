@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0997-find-the-town-judge](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1470-shuffle-the-array](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
