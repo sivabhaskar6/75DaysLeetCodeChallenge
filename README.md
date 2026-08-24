@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0377-combination-sum-iv) |
 | [0509-fibonacci-number](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 ## Sliding Window
 |  |
