@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1470-shuffle-the-array](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0221-maximal-square) |
+| [0994-rotting-oranges](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1572-matrix-diagonal-sum](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/1572-matrix-diagonal-sum) |
 ## Linked List
 |  |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0994-rotting-oranges](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sivabhaskar6/75DaysLeetCodeChallenge/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
